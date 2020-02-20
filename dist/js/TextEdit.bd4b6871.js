@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{527:function(t,e,i){"use strict";i.r(e);var n=function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"text-edit"})};n._withStripped=!0;var s={name:"TextEdit",components:{}},a=i(16),c=Object(a.a)(s,n,[],!1,null,null,null);c.options.__file="src/views/TextEdit.vue";e.default=c.exports}}]);
